@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS",
+  "description": "JARVIS AI Voice Assistant for Android with Gemini Live, Vosk offline voice recognition, and system automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
